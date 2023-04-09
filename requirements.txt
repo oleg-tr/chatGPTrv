@@ -1,0 +1,5 @@
+telebot
+sys
+openai
+time
+signal
