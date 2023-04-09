@@ -1,0 +1,5 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore credentials file
+creds.py
